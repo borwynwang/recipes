@@ -1,6 +1,3 @@
----
-title: "_site.yml"
-output: html_document
----
-
+name: Recipes
+output_dir: "."
 
