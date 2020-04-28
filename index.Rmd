@@ -1,0 +1,60 @@
+---
+title: "Recipes"
+output: 
+  html_document:
+    toc: true
+    toc_float: true 
+---
+
+# Cookies
+
+### Chocolate Chip
+**Ingredients**
+
+* unsalted butter (100g)
+* brown sugar (90g)
+* granulated sugar (30g)
+* egg (1) 
+* vanilla extract or other flavor (2g)
+* cake flour (100g)
+* all purpose flour (100g)
+* baking powder (2g)
+* baking soda (1g)
+* salt (1g)
+* dark chocolate (140g)
+
+**Instructions**
+
+1. Warm butter to room temperature.
+2. Cream butter and sugar with whisk or hand mixer. Add the sugar in 2 or 3 parts. The hand mixer works better than the whisk. 
+3. Add flavorings.
+4. Sift the dry ingredients into the wet ingredients. 
+5. Fold the dry ingredients into the wet ingredients. Don't overmix! 
+6. Add the chocolate and fold a few more times until the dough becomes thick. 
+7. Refrigerate for 30 min. 
+8. Shape dough into balls and press them down onto the baking sheet. 
+9. Bake at 190$^\circ$C (374$^\circ$F) for 12 min.
+10. Cool on a cooling rack.
+
+# Flour
+
+### Noodles 
+**Ingredients** 
+
+* all purpose flour (250g)
+* hot water (110g)
+* 1/8 teaspoon salt
+* 1/8 teaspoon baking soda
+
+**Instructions** 
+
+1. Heat water and mix in salt + baking soda. 
+2. Cool the water until it's comfortable to touch. 
+3. Mix the water into the flour slowly while stirring with a chopstick. It should create a shaggy dough. 
+4. Form the dough into a ball. 
+5. Rest dough for 30 min. 
+6. Knead the dough.
+7. Rest dough for a minimum of 30 min or up to 60 min. 
+8. Repeat steps 6-8 until the dough is smooth. 
+9. Dust the work surface with cornstarch and roll the dough into a thin circle. 
+10. Fold the dough into an accordion and slice into thin pieces. Before slicing, dust cornstarch in between each fold. 
