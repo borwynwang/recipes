@@ -36,6 +36,28 @@ output:
 9. Bake at 190$^\circ$C (374$^\circ$F) for 12 min.
 10. Cool on a cooling rack.
 
+### Brownie Cookies
+**Ingredients** 
+
+* unsalted butter (60g)
+* dark chocolate (100g)
+* egg (1)
+* brown sugar (100g)
+* plain flour (65g)
+* cocoa powder (10g)
+* baking powder (1/2t)
+* salt (1/8t)
+
+**Instructions** 
+
+* Melt butter with chocolate over boiling water that's been taken off the stove. It's easier to melt if the butter is cut into small chunks and the chocolate is shaved. 
+* Cream egg and brown sugar. Hand mixer instead of whisk gives a better result. 
+* Combine melted chocolate and sugar/egg. 
+* Sift dry ingredients into the wet. 
+* Fold. 
+* Spoon the batter on a baking sheet. An ice cream scooper works. Don't spoon too much batter or else the cookies will spill into each other. Makes 8-9 cookies.
+* Bake in the oven for 12 min at 180$^\circ$C (356$^\circ$F). 
+
 # Flour
 
 ### Noodles 
@@ -58,3 +80,17 @@ output:
 8. Repeat steps 6-8 until the dough is smooth. 
 9. Dust the work surface with cornstarch and roll the dough into a thin circle. 
 10. Fold the dough into an accordion and slice into thin pieces. Before slicing, dust cornstarch in between each fold. 
+
+### Scallion Pancake 
+**Ingredients**
+
+* all purpose flour (400g)
+* salt (2g)
+* scallions
+
+**Instructions** 
+
+1. Add boiling water (83g) + room temperature water (167g) to the flour and knead until smooth.
+2. Rest for 20 min.
+3. Add 12g oil and knead.
+4. Break off into chunks and roll them with salt and chopped scallions with oil. Roll and put on cast iron skillet with a cover. 400g of flour can break into 6 chunks. 
